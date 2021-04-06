@@ -1,6 +1,6 @@
 # 刷题笔记
 算法刷题笔记  
-亦可见语雀[https://www.yuque.com/sherpahu/pw62u8](https://www.yuque.com/sherpahu/pw62u8)
+建议直接看语雀[https://www.yuque.com/sherpahu/pw62u8](https://www.yuque.com/sherpahu/pw62u8)，从语雀导出markdown到Github后换行貌似有点问题
 
 ## STL
 
